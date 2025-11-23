@@ -1,0 +1,5 @@
+{
+  "name": "Godot 4 AI Architect (Gemini 3)",
+  "description": "A specialized Godot 4 companion app powered by Gemini 3 Pro. Features auto-coding, physics implementation, logic generation, and intelligent debugging assistance for GDScript.",
+  "requestFramePermissions": []
+}
